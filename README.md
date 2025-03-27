@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-5. Open your browser and go to `http://localhost:3000` to view the application.
+5. Open your browser and go to `http://localhost:5173` to view the application.
 
 ## Usage
 Once the application is running, you can navigate through the different sections using the links in the header. Each section provides information about me, my projects, how to contact me, and my resume.
