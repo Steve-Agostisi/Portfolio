@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from 'C:/Users/sagos/OneDrive/Desktop/Portfolio/react-portfolio/src/assets/299995596_153046614003636_1105125707664596328_n.jpg'; // Adjust the path as necessary
+import avatar from '../assets/299995596_153046614003636_1105125707664596328_n.jpg'; // Adjust the path as necessary
 
 const AboutMe = () => {
     return (
